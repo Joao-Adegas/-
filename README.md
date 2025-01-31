@@ -1,4 +1,4 @@
-## Hi My name is João Pedro Santos Adegas 👋
+## Hi, my name is João Pedro Santos Adegas 👋
 
 # contact
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19982783882)
