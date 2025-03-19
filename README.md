@@ -1,6 +1,6 @@
 ## Hi My name is João Pedro Santos Adegas 👋
 
-###### para de deixar o github logado joão
+
 <ul>
     <li>Studying Information Systems at UNASP Faculty (2/4)</li>
     <li>Complete technical training in IT + TCC (2023)</li>
