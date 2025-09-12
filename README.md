@@ -1,7 +1,8 @@
 ## Hi My name is João Pedro Santos Adegas 👋
 
+  <img alt="gif" src="https://camo.githubusercontent.com/0269a14e7cd538be31627954fcf6cd73f032ab406ad93b9f0340b738c26179a8/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737" style="display:flex; width:30%; margin: 0 auto;">
 
-<ul>
+<ul style="display:flex; justfy-content:center; margin:0 auto;">
     <li>Studying Information Systems at UNASP Faculty (2/4)</li>
     <li>Complete technical training in IT + TCC (2023)</li>
     <li>Curating Systems Development at Senai Roberto Mange</li>
@@ -19,7 +20,7 @@
 
 # Technologies
 
-<div style="display:flex align-itens:center">
+<div style="display:flex; align-itens:center;">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="taiwlind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
